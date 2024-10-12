@@ -92,7 +92,7 @@ BillTracker is a **work-in-progress** full-stack application designed to help us
 ## Prerequisites
 
 - **Docker:** [Install Docker](https://docs.docker.com/get-docker/)
-- **Docker Compose:** [Install Docker Compose](https://docs.docker.com/compose/install/)
+- **Docker Desktop:** [Install Docker Desktop](https://docs.docker.com/compose/install/#scenario-one-install-docker-desktop)
 - **Git:** [Install Git](https://git-scm.com/downloads)
 
 ## Installation
@@ -100,7 +100,7 @@ BillTracker is a **work-in-progress** full-stack application designed to help us
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/tu-usuario/billtracker.git
+   git clone https://github.com/Edain92/billtracker.git
    cd billtracker
    ```
 
@@ -111,7 +111,7 @@ BillTracker is a **work-in-progress** full-stack application designed to help us
 3. **Build and Run Containers**
 
    ```bash
-   docker-compose up --build
+   docker compose up --build
    ```
 
    This command will build the Docker images and start the containers for the frontend, backend, and PostgreSQL database.
@@ -154,18 +154,18 @@ DB_NAME=billtracker
    From the root directory:
 
    ```bash
-   docker-compose up --build
+   docker compose up --build
    ```
 
 2. **Access the Application**
 
-   - **Frontend:** [http://localhost:3000](http://localhost:3000)
-   - **Backend API:** [http://localhost:5000](http://localhost:5000)
+   - **Frontend:** [http://localhost:4200](http://localhost:4200)
+   - **Backend API:** [http://localhost:3000](http://localhost:3000)
 
 3. **Stopping the Services**
 
    ```bash
-   docker-compose down
+   docker compose down
    ```
 
 ## Scripts
