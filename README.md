@@ -2,15 +2,16 @@
 
 BillTracker is a **work-in-progress** full-stack application designed to help users manage and track their bills efficiently. The project is divided into a **frontend** and a **backend**, orchestrated using Docker Compose, ensuring a seamless development and deployment experience. Currently, active development is underway to implement core features and functionalities.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Docker](https://img.shields.io/badge/docker-supported-blue)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-14.17.0-green.svg)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646C9A?style=for-the-badge&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/react-17.0.2-blue.svg)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-supported-blue)
+
 
 ## Table of Contents
 
