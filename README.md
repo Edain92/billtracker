@@ -1,4 +1,3 @@
-```markdown
 # BillTracker
 
 BillTracker is a **work-in-progress** full-stack application designed to help users manage and track their bills efficiently. The project is divided into a **frontend** and a **backend**, orchestrated using Docker Compose, ensuring a seamless development and deployment experience. Currently, active development is underway to implement core features and functionalities.
@@ -15,16 +14,24 @@ BillTracker is a **work-in-progress** full-stack application designed to help us
 
 ## Table of Contents
 
-- [Features](#features)
-- [Technologies](#technologies)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Running the Application](#running-the-application)
-- [Scripts](#scripts)
-- [Contributing](#contributing)
-- [License](#license)
+- [BillTracker](#billtracker)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Technologies](#technologies)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+    - [DevOps](#devops)
+  - [Project Structure](#project-structure)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Environment Variables](#environment-variables)
+    - [Description](#description)
+  - [Running the Application](#running-the-application)
+  - [Scripts](#scripts)
+    - [Frontend](#frontend-1)
+    - [Backend](#backend-1)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Features
 
@@ -229,4 +236,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
